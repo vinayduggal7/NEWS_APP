@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="search_button">search</string>
+    <string name="edit_text">search your topic</string>
+    <string name="load_button">load more</string>
+    <string name="demo_string">Football is the good game.</string>
+</resources>
